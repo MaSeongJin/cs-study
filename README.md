@@ -83,7 +83,7 @@ SSAFY 10기 06반 CS스터디
 | 23/09/15 | [인덱스(필요성, B-트리, 인덱스 만드는 방법, 최적화 기법 등)](./Contents/Database/트랜잭션,%20커밋,%20롤백%20그리고%20트랜잭션%20전파.md)      | 권정훈 |
 | 23/09/19 | [조인의 종류(내부조인, 왼쪽조인, 오른쪽조인, 합집합 조인의 차이 등)](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Database/%EC%A1%B0%EC%9D%B8%EC%9D%98%20%EC%A2%85%EB%A5%98(%EB%82%B4%EB%B6%80%EC%A1%B0%EC%9D%B8%2C%20%EC%99%BC%EC%AA%BD%EC%A1%B0%EC%9D%B8%2C%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%A1%B0%EC%9D%B8%2C%20%ED%95%A9%EC%A7%91%ED%95%A9%20%EC%A1%B0%EC%9D%B8%EC%9D%98%20%EC%B0%A8%EC%9D%B4%20%EB%93%B1).md)                                                                       | 하재률 |
 | 23/09/20 | [조인의 원리(중첩루프조인, 정렬병합조인, 해시조인의 차이)](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Database/%EC%A1%B0%EC%9D%B8%EC%9D%98%20%EC%9B%90%EB%A6%AC(%EC%A4%91%EC%B2%A9%EB%A3%A8%ED%94%84%EC%A1%B0%EC%9D%B8%2C%20%EC%A0%95%EB%A0%AC%EB%B3%91%ED%95%A9%EC%A1%B0%EC%9D%B8%2C%20%ED%95%B4%EC%8B%9C%EC%A1%B0%EC%9D%B8%EC%9D%98%20%EC%B0%A8%EC%9D%B4).md)          | 김도형 |
-| 23/09/21 | [트랜잭션, 트랜잭션 특징, 커밋, 롤백 그리고 트랜잭션 전파](./Contents/Database/트랜잭션,%20커밋,%20롤백%20그리고%20트랜잭션%20전파.md)                                                                                 | 문준형 |
+| 23/09/21 | [트랜잭션, 트랜잭션 특징, 커밋, 롤백 그리고 트랜잭션 전파](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%2C%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%ED%8A%B9%EC%A7%95%2C%20%EC%BB%A4%EB%B0%8B%2C%20%EB%A1%A4%EB%B0%B1%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EC%A0%84%ED%8C%8C.md)                                                                                 | 문준형 |
 |     | [데이터베이스의 핵심, 스토리지엔진(innoDB, MyISAM, wiredtiger 차이)](./Contents/Database/데이터베이스의%20핵심,%20스토리지엔진(innoDB,%20MyISAM,%20wiredtiger%20차이).md)                               |  |
 |     | [트랜잭션의 격리수준에 따른 현상 (팬텀리드, 더티리드 등)](./Contents/Database/트랜잭션의%20격리수준에%20따른%20현상%20(팬텀리드,%20더티리드%20등).md)             |  |
 
@@ -93,7 +93,7 @@ SSAFY 10기 06반 CS스터디
 
 | 주차  | 제목                                                                                                                                                               | 발표자 |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 23/09/22 | [TCP/IP 4계층 #1. 개념, 캡슐화, 비캡슐화, PDU, OSI 7계층](./Contents/Network/TCP_IP%204계층%20%231.%20개념,%20캡슐화,%20비캡슐화,%20PDU,%20OSI%207계층.md)                                 | 마성진 |
+| 23/09/22 | [TCP/IP 4계층 #1. 개념, 캡슐화, 비캡슐화, PDU, OSI 7계층](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Network/TCP/IP%204%EA%B3%84%EC%B8%B5%20%231.%20%EA%B0%9C%EB%85%90%2C%20%EC%BA%A1%EC%8A%90%ED%99%94%2C%20%EB%B9%84%EC%BA%A1%EC%8A%90%ED%99%94%2C%20PDU%2C%20OSI%207%EA%B3%84%EC%B8%B5.md)                                 | 마성진 |
 | 23/09/26 | [TCP/IP 4계층 #2. MTU와 MSS와 PMTUD](./Contents/Network/TCP_IP%204계층%20%232.%20MTU와%20MSS와%20PMTUD.md)                                                               | 전성재 |
 | 23/09/27 | [TCP/IP 4계층 #3. 애플리케이션 계층(application) HTTP, SSH, FTP, SMTP](./Contents/Network/TCP_IP%204계층%20%233.%20애플리케이션%20계층(application)%20HTTP,%20SSH,%20FTP,%20SMTP.md) | 권정훈 |
 | 23/10/04 | [TCP/IP 4계층 #4. 전송 계층(transport) TCP와 UDP](./Contents/Network/TCP_IP%204계층%20%234.%20전송%20계층(transport)%20TCP와%20UDP.md)                                         | 하재률 |
