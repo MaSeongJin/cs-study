@@ -20,7 +20,7 @@ SSAFY 10기 06반 CS스터디
 - Technical Interview Guidelines for Beginners [🔗Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - 📢🙍 tech interview [🔗Link](https://github.com/WeareSoft/tech-interview)
 - <img height="20" src="https://user-images.githubusercontent.com/47595515/198836603-4a8efbb1-3a55-4130-b211-a039cb9cfd8d.png" width="20"/>CS지식의 정석 [🔗Link](https://inf.run/VE5F)
-- [Pull Request에 대한 설명](https://sadoruin-notes.notion.site/Pull-Request-3e8c9a7c98bc41819729e3b306ca9987)
+- ✨Pull Request란? [🔗Link](https://sadoruin-notes.notion.site/Pull-Request-3e8c9a7c98bc41819729e3b306ca9987)
 
 ## 🔎스터디 참고자료
 - https://github.com/devham76/tech-interview-study
@@ -34,7 +34,7 @@ SSAFY 10기 06반 CS스터디
 - 마성진: default, 
 - 김도형: default,
 - 권정훈: default,
-- 하재률: 2000원(23/9/13)
+- 하재률: 2000원(23/9/13), 4000원(23/10/24)
 - 문준형: 2000원(23/8/9), 4000원(23/9/5), 8000원(23/9/7), 32000(23/10/10)
 - 전성재: 
 
@@ -105,31 +105,27 @@ SSAFY 10기 06반 CS스터디
 | 23/10/17 | [IP주소, MAC주소, ARP, RARP](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Network/IP%EC%A3%BC%EC%86%8C%2C%20MAC%EC%A3%BC%EC%86%8C%2C%20ARP%2C%20RARP.md)                                                                                     | 하재률 |
 | 23/10/18 | [IP주소체계 #1. 이진수 이해하기](./Contents/Network/IP주소체계%20%231.%20이진수%20이해하기.md)                                                                                         | 김도형 |
 | 23/10/19 | [IP주소체계 #2. IPv4와 IPv6](./Contents/Network/IP주소체계%20%232.%20IPv4와%20IPv6.md)                                                                                     | 문준형 |
-| 23/10/20 | [IP주소체계 #3. 클래스풀(Classful IP Addressing)](./Contents/Network/IP주소체계%20%233.%20클래스풀(Classful%20IP%20Addressing).md)                                               | 마성진 |
-|  | [IP주소체계 #4. 클래스리스와 서브넷마스크, 서브네팅](./Contents/Network/IP주소체계%20%234.%20클래스리스와%20서브넷마스크,%20서브네팅.md)                                                                 | 전성재 |
-|     | [IP주소체계 #5. 공인IP(public IP)와 사설IP(private IP)와 NAT](./Contents/Network/IP주소체계%20%235.%20공인IP(public%20IP)와%20사설IP(private%20IP)와%20NAT.md)                       |     |
-|     | [DEEP DIVE : www<hi>.naver.com을 주소창에 입력했을 때 화면이 나타나기까지의 과정](./Contents/Network/DEEP%20DIVE%20-%20www.naver.com을%20주소창에%20입력했을%20때%20화면이%20나타나기까지의%20과정.md)       |     |
-|     | [DEEP DIVE : HTTP/1.x HTTP2의 차이 그리고 HTTP3](./Contents/Network/DEEP%20DIVE%20-%20HTTP1.x%20HTTP2의%20차이%20그리고%20HTTP3.md)                                          |     |
-|     | [DEEP DIVE : HTTPS와 TLS #1. 암호화](./Contents/Network/DEEP%20DIVE%20-%20HTTPS와%20TLS%20%231.%20암호화.md)                                                             |     |
-|     | [DEEP DIVE : HTTPS와 TLS #2. TLS 핸드쉐이크](./Contents/Network/DEEP%20DIVE%20-%20HTTPS와%20TLS%20%232.%20TLS%20핸드쉐이크.md)                                               |     |
-|  | [브라우저 렌더링과정](./Contents/Network/브라우저%20렌더링과정.md)                                                                                                                 |  |
-|     | [웹브라우저의 캐시 #1. 로컬스토리지와 세션스토리지](./Contents/Network/웹브라우저의%20캐시%20%231.%20로컬스토리지와%20세션스토리지.md)                                                                     |  |
-|     | [웹브라우저의 캐시 #2. 제대로 배우는 쿠키](./Contents/Network/웹브라우저의%20캐시%20%232%20제대로%20배우는%20쿠키.md)                                                                            |  |
-|     | [웹브라우저의 캐시 #3. 로컬스토리지, 세션스토리지, 쿠키의 차이](./Contents/Network/웹브라우저의%20캐시%20%233.%20로컬스토리지,%20세션스토리지,%20쿠키의%20차이.md)                                                 |     |
-|     | [로그인방식: 쿠키와 세션 그리고 토큰방식(JWT)](./Contents/Network/로그인방식%20쿠키와%20세션%20그리고%20토큰방식(JWT).md)                                                                          |  |
-|     | [HTTP의 상태코드와 메서드(GET, POST, PUT, PATCH, DELETE)](./Contents/Network/HTTP%20상태코드와%20메서드(GET,%20POST,%20PATCH,%20DELETE).md)                                       |  |
-|     | [REST API](./Contents/Network/REST%20API.md)                                                                                                                     |  |
-|  | [네트워크를 이루는 장치의 이해](./Contents/Network/네트워크를%20이루는%20장치의%20이해.md)                                                                                                 |     |
-|     | [네트워크를 이루는 장치 #1 애플리케이션 계층](./Contents/Network/네트워크를%20이루는%20장치%20%231%20애플리케이션%20계층.md)                                                                         |  |
-|     | [네트워크를 이루는 장치 #2 전송 계층](./Contents/Network/네트워크를%20이루는%20장치%20%232%20전송%20계층.md)                                                                                 |  |
-|     | [네트워크를 이루는 장치 #3 인터넷 계층](./Contents/Network/네트워크를%20이루는%20장치%20%233%20인터넷%20계층.md)                                                                               |  |
-|     | [네트워크를 이루는 장치 #4 데이터링크계층](./Contents/Network/네트워크를%20이루는%20장치%20%234%20데이터링크계층.md)                                                                               |  |
-|     | [네트워크를 이루는 장치 #5 물리계층](./Contents/Network/네트워크를%20이루는%20장치%20%235%20물리계층.md)                                                                                     |  |
-|     | [유선LAN의 기술 : 전이중화 통신, CSMA/CD](./Contents/Network/유선LAN의%20기술%20-%20전이중화%20통신,%20CSMACD.md)                                                                      |  |
-|     | [무선LAN을 이루는 기술 : 반이중화 통신, CSMA/CA, 와이파이, BSS, ESS](./Contents/Network/무선LAN을%20이루는%20기술%20%20반이중화%20통신,%20CSMACA,%20와이파이,%20BSS,%20ESS.md)                       |  |
-|     | [DEEP DIVE : 대규모 트래픽으로 인한 서버 과부화 해결방법 #1](./Contents/Network/DEEP%20DIVE%20-%20대규모%20트래픽으로%20인한%20서버%20과부화%20해결방법%20%231.md)                                     |  |
-|     | [DEEP DIVE : 대규모 트래픽으로 인한 서버 과부화 해결방법 #2](./Contents/Network/대규모%20트래픽으로%20인한%20서버%20과부화%20해결%20방법%232.md)                                                       |  |
-|     | [트랜잭션의 격리수준(SERIALIZABLE, REPEATABLE_READ 등)](./Contents/Database/트랜잭션의%20격리수준(SERIALIZABLE,%20REPEATABLE_READ%20등).md)    |  |
+| 23/10/20 | [IP주소체계 #3. 클래스풀(Classful IP Addressing)](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Network/IP%EC%A3%BC%EC%86%8C%EC%B2%B4%EA%B3%84%20%233.%20%ED%81%B4%EB%9E%98%EC%8A%A4%ED%92%80(Classful%20IP%20Addressing).md)                                               | 마성진 |
+| 23/10/24 | [IP주소체계 #4. 클래스리스와 서브넷마스크, 서브네팅](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Network/IP%EC%A3%BC%EC%86%8C%EC%B2%B4%EA%B3%84%20%234.%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A6%AC%EC%8A%A4%EC%99%80%20%EC%84%9C%EB%B8%8C%EB%84%B7%EB%A7%88%EC%8A%A4%ED%81%AC,%20%EC%84%9C%EB%B8%8C%EB%84%A4%ED%8C%85.md)                                                                 | 전성재 |
+| 23/10/25 | [망분리 규제와 망분리 정의(물리적 망분리, 논리적 망분리), 장단점, 망분리의 대안](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Network/%EB%A7%9D%EB%B6%84%EB%A6%AC%20%EA%B7%9C%EC%A0%9C%EC%99%80%20%EB%A7%9D%EB%B6%84%EB%A6%AC%20%EC%A0%95%EC%9D%98(%EB%AC%BC%EB%A6%AC%EC%A0%81%20%EB%A7%9D%EB%B6%84%EB%A6%AC,%20%EB%85%BC%EB%A6%AC%EC%A0%81%20%EB%A7%9D%EB%B6%84%EB%A6%AC),%20%EC%9E%A5%EB%8B%A8%EC%A0%90,%20%EB%A7%9D%EB%B6%84%EB%A6%AC%EC%9D%98%20%EB%8C%80%EC%95%88.md)                                                                 | 권정훈 |
+| 23/10/26 | [IP주소체계 #5. 공인IP(public IP)와 사설IP(private IP)와 NAT](https://github.com/jeonseongjae98/cs-study/blob/main/Contents/Network/IP%EC%A3%BC%EC%86%8C%EC%B2%B4%EA%B3%84%20%235.%20%EA%B3%B5%EC%9D%B8IP(public%20IP)%EC%99%80%20%EC%82%AC%EC%84%A4IP(private%20IP)%EC%99%80%20NAT.md)                       | 하재률 |
+| 23/10/27 | [DEEP DIVE : www<hi>.naver.com을 주소창에 입력했을 때 화면이 나타나기까지의 과정과 브라우저 렌더링과정](./Contents/Network/DEEP%20DIVE%20-%20www.naver.com을%20주소창에%20입력했을%20때%20화면이%20나타나기까지의%20과정.md)       | 김도형 |
+| 23/10/31 | [DEEP DIVE : HTTP/1.x HTTP2의 차이 그리고 HTTP3](./Contents/Network/DEEP%20DIVE%20-%20HTTP1.x%20HTTP2의%20차이%20그리고%20HTTP3.md)                                          | 문준형 |
+| 23/11/01 | [DEEP DIVE : HTTPS와 TLS #1. 암호화](./Contents/Network/DEEP%20DIVE%20-%20HTTPS와%20TLS%20%231.%20암호화.md)                                                             | 마성진 |
+| 23/11/02 | [DEEP DIVE : HTTPS와 TLS #2. TLS 핸드쉐이크](./Contents/Network/DEEP%20DIVE%20-%20HTTPS와%20TLS%20%232.%20TLS%20핸드쉐이크.md)                                               | 전성재 |
+| 23/11/03 | [웹브라우저의 캐시 #1. 로컬스토리지와 세션스토리지](./Contents/Network/웹브라우저의%20캐시%20%231.%20로컬스토리지와%20세션스토리지.md)                                                                     | 권정훈 |
+| 23/11/07 | [웹브라우저의 캐시 #2. 제대로 배우는 쿠키](./Contents/Network/웹브라우저의%20캐시%20%232%20제대로%20배우는%20쿠키.md)                                                                            | 하재률 |
+| 23/11/08 | [웹브라우저의 캐시 #3. 로컬스토리지, 세션스토리지, 쿠키의 차이](./Contents/Network/웹브라우저의%20캐시%20%233.%20로컬스토리지,%20세션스토리지,%20쿠키의%20차이.md)                                                 | 김도형 |
+| 23/11/09 | [로그인방식: 쿠키와 세션 그리고 토큰방식(JWT)](./Contents/Network/로그인방식%20쿠키와%20세션%20그리고%20토큰방식(JWT).md)                                                                          | 문준형 |
+| 23/11/10 | [HTTP의 상태코드와 메서드(GET, POST, PUT, PATCH, DELETE)](./Contents/Network/HTTP%20상태코드와%20메서드(GET,%20POST,%20PATCH,%20DELETE).md)                                       | 마성진 |
+| 23/11/14 | [REST API](./Contents/Network/REST%20API.md)                                                                                                                     | 전성재 |
+| 23/11/15 | [네트워크를 이루는 장치 #1 애플리케이션 계층, #2 전송 계층](./Contents/Network/네트워크를%20이루는%20장치%20%231%20애플리케이션%20계층.md)                                                                         |  |
+| 23/11/16 | [네트워크를 이루는 장치 #3 인터넷 계층, #4 데이터링크계층, #5 물리계층](./Contents/Network/네트워크를%20이루는%20장치%20%232%20전송%20계층.md)                                                                                 |  |
+| 23/11/17 | [유선LAN의 기술 : 전이중화 통신, CSMA/CD](./Contents/Network/유선LAN의%20기술%20-%20전이중화%20통신,%20CSMACD.md)                                                                      |  |
+| 23/11/24 | [무선LAN을 이루는 기술 : 반이중화 통신, CSMA/CA, 와이파이, BSS, ESS](./Contents/Network/무선LAN을%20이루는%20기술%20%20반이중화%20통신,%20CSMACA,%20와이파이,%20BSS,%20ESS.md)                       |  |
+| 23/11/25 | [DEEP DIVE : 대규모 트래픽으로 인한 서버 과부화 해결방법 #1](./Contents/Network/DEEP%20DIVE%20-%20대규모%20트래픽으로%20인한%20서버%20과부화%20해결방법%20%231.md)                                     |  |
+| 23/11/26 | [DEEP DIVE : 대규모 트래픽으로 인한 서버 과부화 해결방법 #2](./Contents/Network/대규모%20트래픽으로%20인한%20서버%20과부화%20해결%20방법%232.md)                                                       |  |
+| 23/11/27 | [트랜잭션의 격리수준(SERIALIZABLE, REPEATABLE_READ 등)](./Contents/Database/트랜잭션의%20격리수준(SERIALIZABLE,%20REPEATABLE_READ%20등).md)    |  |
 |     | [DEEP DIVE : clustered index와 non-clustered index와의 차이](./Contents/Database/clustered%20index와%20non-clustered%20index와의%20차이.md)                                     |  |
 |     | [DEEP DIVE : 데이터베이스의 데드락과 해결방법](./Contents/Database/DEEP%20DIVE%20-%20데이터베이스의%20데드락과%20해결방법.md)                                                                       |  |
 
